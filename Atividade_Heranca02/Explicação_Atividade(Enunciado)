@@ -1,0 +1,6 @@
+Crie um projeto de nome ProjetoPessoa, desenvolva uma classe para representar uma pessoa, com os atributos privados nome, data de nascimento e altura.
+Desenvolva uma classe para representar os dependentes da pessoa, com num de dependentes.
+ Crie os métodos públicos necessários para imprimir todos os dados da pessoa(inclusive o número de dependentes) e para calcular e retornar a idade da
+ pessoa a partir de sua data de nascimento e retornar o valor do plano de saúde a partir da quantidade de dependentes, caso tenha de 5 ou mais dependentes
+ não paga nenhum valor, de 1 a 2 paga 150por filho, de 3 a 4 paga 100 por filho.
+Lembre-se de fazer o encapsulamento dos atributos.
