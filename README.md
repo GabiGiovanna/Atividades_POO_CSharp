@@ -1,4 +1,4 @@
-# Atividades em sobre C#
+# Atividades em C#
 Atividades desenvolvidas no curso de TI em C# (Estudando a matéria de POO)<br>
 Abordando:
 <ul>
