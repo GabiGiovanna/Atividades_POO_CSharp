@@ -1,0 +1,11 @@
+H:\POO\2°ETAPA\ATIVIDADES\Projeto 2\bin\Debug\Projeto 2.exe.config
+H:\POO\2°ETAPA\ATIVIDADES\Projeto 2\bin\Debug\Projeto 2.exe
+H:\POO\2°ETAPA\ATIVIDADES\Projeto 2\bin\Debug\Projeto 2.pdb
+H:\POO\2°ETAPA\ATIVIDADES\Projeto 2\obj\Debug\Projeto 2.csproj.AssemblyReference.cache
+H:\POO\2°ETAPA\ATIVIDADES\Projeto 2\obj\Debug\Projeto 2.csproj.SuggestedBindingRedirects.cache
+H:\POO\2°ETAPA\ATIVIDADES\Projeto 2\obj\Debug\Projeto_2.Form1.resources
+H:\POO\2°ETAPA\ATIVIDADES\Projeto 2\obj\Debug\Projeto_2.Properties.Resources.resources
+H:\POO\2°ETAPA\ATIVIDADES\Projeto 2\obj\Debug\Projeto 2.csproj.GenerateResource.cache
+H:\POO\2°ETAPA\ATIVIDADES\Projeto 2\obj\Debug\Projeto 2.csproj.CoreCompileInputs.cache
+H:\POO\2°ETAPA\ATIVIDADES\Projeto 2\obj\Debug\Projeto 2.exe
+H:\POO\2°ETAPA\ATIVIDADES\Projeto 2\obj\Debug\Projeto 2.pdb
