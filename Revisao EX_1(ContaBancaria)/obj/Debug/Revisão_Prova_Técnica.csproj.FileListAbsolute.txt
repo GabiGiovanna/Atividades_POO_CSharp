@@ -1,0 +1,11 @@
+H:\POO\2°ETAPA\ATIVIDADES\Revisão_Prova_Técnica\bin\Debug\Revisão_Prova_Técnica.exe.config
+H:\POO\2°ETAPA\ATIVIDADES\Revisão_Prova_Técnica\bin\Debug\Revisão_Prova_Técnica.exe
+H:\POO\2°ETAPA\ATIVIDADES\Revisão_Prova_Técnica\bin\Debug\Revisão_Prova_Técnica.pdb
+H:\POO\2°ETAPA\ATIVIDADES\Revisão_Prova_Técnica\obj\Debug\Revisão_Prova_Técnica.csproj.AssemblyReference.cache
+H:\POO\2°ETAPA\ATIVIDADES\Revisão_Prova_Técnica\obj\Debug\Revisão_Prova_Técnica.csproj.SuggestedBindingRedirects.cache
+H:\POO\2°ETAPA\ATIVIDADES\Revisão_Prova_Técnica\obj\Debug\Revisão_Prova_Técnica.Properties.Resources.resources
+H:\POO\2°ETAPA\ATIVIDADES\Revisão_Prova_Técnica\obj\Debug\Revisão_Prova_Técnica.csproj.GenerateResource.cache
+H:\POO\2°ETAPA\ATIVIDADES\Revisão_Prova_Técnica\obj\Debug\Revisão_Prova_Técnica.csproj.CoreCompileInputs.cache
+H:\POO\2°ETAPA\ATIVIDADES\Revisão_Prova_Técnica\obj\Debug\Revisão_Prova_Técnica.exe
+H:\POO\2°ETAPA\ATIVIDADES\Revisão_Prova_Técnica\obj\Debug\Revisão_Prova_Técnica.pdb
+H:\POO\2°ETAPA\ATIVIDADES\Revisão_Prova_Técnica\obj\Debug\Revisão_Prova_Técnica.Form1.resources
